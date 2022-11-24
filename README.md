@@ -1,7 +1,7 @@
 # PB
 DA project
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nuh-Thierry/PB/main?labpath=index.ipynb)
 
 ## Data set :file_folder:
 
