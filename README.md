@@ -5,6 +5,7 @@ DA project
 
 ## Data set :file_folder:
 
+
 |    | Port Name   | State     |   Port Code | Border           | Date     | Measure   |   Value |   Latitude |   Longitude | Point                         |
 |---:|:------------|:----------|------------:|:-----------------|:---------|:----------|--------:|-----------:|------------:|:------------------------------|
 |  0 | Calais      | Maine     |         115 | US-Canada Border | Aug 2022 | Trucks    |    6175 |     45.189 |     -67.275 | POINT (-67.275381 45.188548)  |
